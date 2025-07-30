@@ -6,6 +6,9 @@ Este projeto contém um dashboard desenvolvido no Power BI com foco na **anális
 
 ![Dashboard](image.png)
 
+:yellow_circle: Power BI
+
+
 ## 🧠 Objetivo
 
 Avaliar a presença de Municípios atendidos, identificar pontos fortes e fracos da sua atuação, além de mapear possíveis oportunidades de crescimento com base nos dados coletados.
@@ -26,6 +29,7 @@ Avaliar a presença de Municípios atendidos, identificar pontos fortes e fracos
   ## 📎 Observações
 
 > Todos os dados utilizados foram tratados e anonimizados para fins de estudo e visualização analítica.
+
 
 ---
 
