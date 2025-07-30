@@ -4,7 +4,7 @@ Este projeto contém um dashboard desenvolvido no Power BI com foco na **anális
 
 ## 📸 Demonstração
 
-![Dashboard Claro](image.png)
+![Dashboard](image.png)
 
 ## 🧠 Objetivo
 
