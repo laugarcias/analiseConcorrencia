@@ -1,4 +1,4 @@
-# 📊 Análise da Concorrência - Claro
+# 📊 Análise da Concorrência
 
 Este projeto contém um dashboard desenvolvido no Power BI com foco na **análise de cobertura e competitividade da operadora Claro**.
 
