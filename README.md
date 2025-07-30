@@ -1,6 +1,6 @@
 # 📊 Análise da Concorrência
 
-Este projeto contém um dashboard desenvolvido no Power BI com foco na **análise de cobertura e competitividade da operadora Claro**.
+Este projeto contém um dashboard desenvolvido no Power BI com foco na **análise de cobertura e competitividade**.
 
 ## 📸 Demonstração
 
@@ -8,7 +8,7 @@ Este projeto contém um dashboard desenvolvido no Power BI com foco na **anális
 
 ## 🧠 Objetivo
 
-Avaliar a presença da Claro nos municípios atendidos, identificar pontos fortes e fracos da sua atuação, além de mapear possíveis oportunidades de crescimento com base nos dados coletados.
+Avaliar a presença de Municípios atendidos, identificar pontos fortes e fracos da sua atuação, além de mapear possíveis oportunidades de crescimento com base nos dados coletados.
 
 ## 🛠️ Ferramentas Utilizadas
 
